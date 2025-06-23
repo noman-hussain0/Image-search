@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- 
-=======
 # 🖼️ Image Search Engine
 
 Image Search Engine is a simple yet visually appealing web application that allows users to search and explore high-quality images using the powerful **Unsplash API**. 
@@ -49,4 +46,3 @@ To make it work:
 Register at Unsplash Developers
 
 Replace the access key in script.js:
->>>>>>> origin/master
